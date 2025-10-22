@@ -1,13 +1,12 @@
 import React from 'react'
 
-const Page1Content = () => {
+const RightContent = () => {
   return (
     <>
     
-  
     
     </>
   )
 }
 
-export default Page1Content
+export default RightContent
