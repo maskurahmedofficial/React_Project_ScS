@@ -5,7 +5,7 @@ const RightContent = () => {
   return (
     <>
     
-    <div className='h-full w-2/3 bg-green-300 p-5'>
+    <div className='h-full w-2/3 rounded-2xl bg-green-200 p-5'>
       <RightCard/>
     </div>
 
