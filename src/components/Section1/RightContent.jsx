@@ -5,7 +5,9 @@ const RightContent = () => {
   return (
     <>
     
-    <div className='h-full flex flex-nowrap gap-10 w-2/3 rounded-2xl bg-green-200 p-5'>
+    <div className='h-full flex flex-nowrap overflow-x-auto gap-10 w-2/3 rounded-2xl bg-green-200 p-5'>
+      <RightCard/>
+      <RightCard/>
       <RightCard/>
       <RightCard/>
       <RightCard/>
