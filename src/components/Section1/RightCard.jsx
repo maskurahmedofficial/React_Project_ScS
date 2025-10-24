@@ -19,7 +19,7 @@ const RightCard = () => {
           </div>
           <div className="flex gap-2 mb-3 pl-4">
             <button className="px-6 py-4 bg-blue-500 rounded align-middle text-white">Setisfied</button>
-            <button className="px-6 py-4 bg-blue-500 rounded align-middle text-white"><i className=" text-white ri-arrow-right-line"></i></button>
+            <button className="px-6 py-4 bg-blue-500 rounded align-middle text-white"><i className=" text-white font-bold ri-arrow-right-line"></i></button>
           </div>
         </div>
       </div>
