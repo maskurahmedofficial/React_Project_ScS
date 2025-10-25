@@ -9,7 +9,7 @@ const RightCard = (props) => {
           src={props.img}  alt="img"
           className="h-full w-fit rounded-2xl object-cover "
         />
-        <RighttCardContent/>
+        <RighttCardContent id={props.id} tag={props.tag} />
       </div>
     </>
   );
