@@ -12,6 +12,7 @@ const RighttCardContent = () => {
           distinctio officiis consectetur a earum tempora.
         </p>
       </div>
+      
       <div className="flex gap-1 mb-3 pl-4">
         <button className="px-6 py-4 bg-blue-500 rounded-full align-middle text-white">
           Setisfied
