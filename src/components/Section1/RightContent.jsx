@@ -13,7 +13,6 @@ const RightContent = (props) => {
       /> )}
       
     </div>
-    
     </>
   )
 }
