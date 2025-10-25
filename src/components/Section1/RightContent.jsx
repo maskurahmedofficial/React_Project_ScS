@@ -7,7 +7,8 @@ const RightContent = (props) => {
     <>
     
     <div className='h-full flex flex-nowrap overflow-x-auto gap-10 w-2/3 rounded-2xl p-5'>
-      {props.users.map}
+      {/* {props.users.map(()=> <RightCard /> )} */}
+      <RightCard />
     </div>
 
     </>
